@@ -24,6 +24,28 @@ Our dataset follows a star schema model where fact tables contain transactional 
 
 <img width="1050" height="585" alt="image" src="https://github.com/user-attachments/assets/07480d65-163d-48f4-8adc-299766faf0c6" />
 
+## Tableau Dashboard
+
+<img width="1880" height="764" alt="image" src="https://github.com/user-attachments/assets/0a3df4c9-7aa2-451f-9d75-02d64c0754f1" />
+
+## PowerBI Dashboard
+
+- Management Centric
+<img width="1178" height="669" alt="image" src="https://github.com/user-attachments/assets/a721950b-f207-45be-a8a7-9740c881b937" />
+
+- Customer Centric
+<img width="1179" height="670" alt="image" src="https://github.com/user-attachments/assets/f91b6640-ccd7-493c-931f-036554f3e35f" />
+
+## Conclusion 
+This project demonstrates how data analytics can transform hospitality operations. The dashboard enables AtliQ Grands to:
+- Improve revenue management
+- Enhance customer satisfaction
+- Optimize room pricing
+- Reduce cancellations
+- Support strategic decision-making
+By leveraging analytics, AtliQ Grands can strengthen its competitive position in the hospitality industry.
+
+
 
 
 
