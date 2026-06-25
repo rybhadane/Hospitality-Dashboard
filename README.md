@@ -43,6 +43,7 @@ This project demonstrates how data analytics can transform hospitality operation
 - Optimize room pricing
 - Reduce cancellations
 - Support strategic decision-making
+
 By leveraging analytics, AtliQ Grands can strengthen its competitive position in the hospitality industry.
 
 
